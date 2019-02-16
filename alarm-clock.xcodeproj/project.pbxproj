@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		277CDA9F2218AE200094F72B /* Calendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277CDA9E2218AE200094F72B /* Calendar.swift */; };
 		34C1907622189CB8006392B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34C1907522189CB8006392B0 /* AppDelegate.swift */; };
 		34C1907822189CB8006392B0 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34C1907722189CB8006392B0 /* RootViewController.swift */; };
 		34C1907A22189CB8006392B0 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34C1907922189CB8006392B0 /* DataViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		277CDA9E2218AE200094F72B /* Calendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendar.swift; sourceTree = "<group>"; };
 		34C1907222189CB8006392B0 /* alarm-clock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "alarm-clock.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		34C1907522189CB8006392B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		34C1907722189CB8006392B0 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				34C1907922189CB8006392B0 /* DataViewController.swift */,
 				34C1907B22189CB8006392B0 /* ModelController.swift */,
 				34C1907D22189CB8006392B0 /* Main.storyboard */,
+				277CDA9E2218AE200094F72B /* Calendar.swift */,
 				34C1908022189CBB006392B0 /* Assets.xcassets */,
 				34C1908222189CBB006392B0 /* LaunchScreen.storyboard */,
 				34C1908522189CBB006392B0 /* Info.plist */,
@@ -145,6 +148,7 @@
 				34C1907C22189CB8006392B0 /* ModelController.swift in Sources */,
 				34C1907A22189CB8006392B0 /* DataViewController.swift in Sources */,
 				34C1907622189CB8006392B0 /* AppDelegate.swift in Sources */,
+				277CDA9F2218AE200094F72B /* Calendar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
